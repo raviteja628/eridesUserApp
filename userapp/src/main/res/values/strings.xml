@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">erides</string>
+    <string name="ridenow">Take Ride Now</string>
+    <string name="welcome">Welcome Erider</string>
+</resources>

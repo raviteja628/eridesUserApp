@@ -1,0 +1,60 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="#19B5FE"
+    tools:context="com.example.mytaxiservice.TaxiBooking" >
+    
+    <EditText
+        android:id="@+id/pickUpLoc"
+        android:textColor="#FFFFFF"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="25dp"
+        android:hint="Enter Pick Up location"
+        android:textColorHint="#FFFFFF"
+        android:ems="5"
+        android:inputType="textPersonName" >
+    </EditText>
+    
+    <Button
+        android:id="@+id/bookBt"
+        android:background="#F7CA18"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_below="@+id/destLoc"
+        android:layout_marginTop="30dp"
+        android:layout_centerHorizontal="true"
+        android:text="Find Ride" />
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/bookBt"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:src="@drawable/logo" />
+
+
+    <EditText
+        android:id="@+id/destLoc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/pickUpLoc"
+        android:layout_marginTop="30dp"
+        android:ems="5"
+        android:hint="Enter Destination"
+        android:inputType="text"
+        android:textColor="#FFFFFF"
+        android:textColorHint="#FFFFFF" />
+
+</RelativeLayout>

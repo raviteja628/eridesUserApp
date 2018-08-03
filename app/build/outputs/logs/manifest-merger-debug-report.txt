@@ -1,0 +1,411 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/ecoride/AndroidStudioProjects/eridesUserApp/app/src/main/AndroidManifest.xml:2:1-51:12
+INJECTED from /home/ecoride/AndroidStudioProjects/eridesUserApp/app/src/main/AndroidManifest.xml:2:1-51:12
+INJECTED from /home/ecoride/AndroidStudioProjects/eridesUserApp/app/src/main/AndroidManifest.xml:2:1-51:12
+INJECTED from /home/ecoride/AndroidStudioProjects/eridesUserApp/app/src/main/AndroidManifest.xml:2:1-51:12
+MERGED from [com.google.android.gms:play-services-ads:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-ads-12.0.1.aar/683d628ef6ec59bc2a6f1d5e4f020dfb/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/7be6a9d7384a4adaf6d524bb53042a3f/AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/72ba7ae53ccc97192b618c7d275bda95/AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/be34b328885dc2a7e601757226f68f2f/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-gass-12.0.1.aar/402b8e6ff5f5c46f29a6af25da64696a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-12.0.1.aar/d0a9be9c74ef6a1c466f21563f0c37e3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-12.0.1.aar/1680be01bbbe3532bbb19d68bea5fa6d/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/55efbb420e0a41e188dd4db90afc1f23/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/905624a28120f1b88fdeb08c0bc361d0/AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-common:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/f930bf9ff27277ff14e97705d890e771/AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/15b4057d9a6db92d2682f0e3dff00124/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/de1be9b903c88bfbb7a270056174943b/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /home/ecoride/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/8b60de6ceeb89fe5435d38fb673719a0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/ecoride/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/8384ef73bff1f024587b881f6d47e099/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /home/ecoride/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/9a6eae1f2e1f8a7c120358a5888430cc/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/ecoride/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/e60d766c33672b13f2ec901392d35998/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/ecoride/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/6863a81938a1a99086663084bfb2ddfb/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /home/ecoride/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b01ce526f6cf88543a49a0850a0852d1/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-ads-license-12.0.1.aar/a94ad4613e59506aa839895926b0ccbb/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-12.0.1.aar/dc377bcb5cff97d958193db497f2de0e/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-license-12.0.1.aar/fecfefa66a65659bc5367140354f0df1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/a1b90bad4317082a3a6e99d7f4ccb5c0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-gass-license-12.0.1.aar/7c5c65802a8f451b6799a0c8e0281272/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-12.0.1.aar/27a25ee837c2e2744c2382c38471aedb/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-12.0.1.aar/c48695fdf49cb264ddb190a0da6665c9/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.1.aar/383efe60ccce8badfeda06232d07f7de/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/098acad4e666b2bb4e694f7a03500fad/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-12.0.1.aar/71fc0524dc32c3b0ab9d11873354d78e/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/firebase-common-license-12.0.1.aar/b425a80f7fc85633c18a4a2c2a0985eb/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/ecoride/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/9fd7b86a28df298524bf92f76d9e0366/AndroidManifest.xml:17:1-30:12
+INJECTED from /home/ecoride/AndroidStudioProjects/eridesUserApp/app/src/main/AndroidManifest.xml:2:1-51:12
+INJECTED from /home/ecoride/AndroidStudioProjects/eridesUserApp/app/src/main/AndroidManifest.xml:2:1-51:12
+INJECTED from /home/ecoride/AndroidStudioProjects/eridesUserApp/app/src/main/AndroidManifest.xml:2:1-51:12
+	package
+		ADDED from /home/ecoride/AndroidStudioProjects/eridesUserApp/app/src/main/AndroidManifest.xml:3:5-40
+		INJECTED from /home/ecoride/AndroidStudioProjects/eridesUserApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ecoride/AndroidStudioProjects/eridesUserApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/ecoride/AndroidStudioProjects/eridesUserApp/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /home/ecoride/AndroidStudioProjects/eridesUserApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ecoride/AndroidStudioProjects/eridesUserApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/ecoride/AndroidStudioProjects/eridesUserApp/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /home/ecoride/AndroidStudioProjects/eridesUserApp/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /home/ecoride/AndroidStudioProjects/eridesUserApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ecoride/AndroidStudioProjects/eridesUserApp/app/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /home/ecoride/AndroidStudioProjects/eridesUserApp/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /home/ecoride/AndroidStudioProjects/eridesUserApp/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /home/ecoride/AndroidStudioProjects/eridesUserApp/app/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-ads:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-ads-12.0.1.aar/683d628ef6ec59bc2a6f1d5e4f020dfb/AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-ads-12.0.1.aar/683d628ef6ec59bc2a6f1d5e4f020dfb/AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/7be6a9d7384a4adaf6d524bb53042a3f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/7be6a9d7384a4adaf6d524bb53042a3f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/72ba7ae53ccc97192b618c7d275bda95/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/72ba7ae53ccc97192b618c7d275bda95/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/be34b328885dc2a7e601757226f68f2f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/be34b328885dc2a7e601757226f68f2f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-gass-12.0.1.aar/402b8e6ff5f5c46f29a6af25da64696a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-gass-12.0.1.aar/402b8e6ff5f5c46f29a6af25da64696a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-12.0.1.aar/d0a9be9c74ef6a1c466f21563f0c37e3/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-12.0.1.aar/d0a9be9c74ef6a1c466f21563f0c37e3/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-12.0.1.aar/1680be01bbbe3532bbb19d68bea5fa6d/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-12.0.1.aar/1680be01bbbe3532bbb19d68bea5fa6d/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/55efbb420e0a41e188dd4db90afc1f23/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/55efbb420e0a41e188dd4db90afc1f23/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/905624a28120f1b88fdeb08c0bc361d0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/905624a28120f1b88fdeb08c0bc361d0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/f930bf9ff27277ff14e97705d890e771/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/f930bf9ff27277ff14e97705d890e771/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/15b4057d9a6db92d2682f0e3dff00124/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/15b4057d9a6db92d2682f0e3dff00124/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/de1be9b903c88bfbb7a270056174943b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/de1be9b903c88bfbb7a270056174943b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /home/ecoride/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/8b60de6ceeb89fe5435d38fb673719a0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /home/ecoride/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/8b60de6ceeb89fe5435d38fb673719a0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/ecoride/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/8384ef73bff1f024587b881f6d47e099/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/ecoride/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/8384ef73bff1f024587b881f6d47e099/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /home/ecoride/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/9a6eae1f2e1f8a7c120358a5888430cc/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /home/ecoride/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/9a6eae1f2e1f8a7c120358a5888430cc/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/ecoride/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/e60d766c33672b13f2ec901392d35998/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/ecoride/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/e60d766c33672b13f2ec901392d35998/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/ecoride/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/6863a81938a1a99086663084bfb2ddfb/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/ecoride/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/6863a81938a1a99086663084bfb2ddfb/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/ecoride/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b01ce526f6cf88543a49a0850a0852d1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/ecoride/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b01ce526f6cf88543a49a0850a0852d1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-ads-license-12.0.1.aar/a94ad4613e59506aa839895926b0ccbb/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-ads-license-12.0.1.aar/a94ad4613e59506aa839895926b0ccbb/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-12.0.1.aar/dc377bcb5cff97d958193db497f2de0e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-12.0.1.aar/dc377bcb5cff97d958193db497f2de0e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-license-12.0.1.aar/fecfefa66a65659bc5367140354f0df1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-license-12.0.1.aar/fecfefa66a65659bc5367140354f0df1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/a1b90bad4317082a3a6e99d7f4ccb5c0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/a1b90bad4317082a3a6e99d7f4ccb5c0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-gass-license-12.0.1.aar/7c5c65802a8f451b6799a0c8e0281272/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-gass-license-12.0.1.aar/7c5c65802a8f451b6799a0c8e0281272/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-12.0.1.aar/27a25ee837c2e2744c2382c38471aedb/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-12.0.1.aar/27a25ee837c2e2744c2382c38471aedb/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-12.0.1.aar/c48695fdf49cb264ddb190a0da6665c9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-12.0.1.aar/c48695fdf49cb264ddb190a0da6665c9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.1.aar/383efe60ccce8badfeda06232d07f7de/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.1.aar/383efe60ccce8badfeda06232d07f7de/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/098acad4e666b2bb4e694f7a03500fad/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/098acad4e666b2bb4e694f7a03500fad/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-12.0.1.aar/71fc0524dc32c3b0ab9d11873354d78e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-12.0.1.aar/71fc0524dc32c3b0ab9d11873354d78e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/firebase-common-license-12.0.1.aar/b425a80f7fc85633c18a4a2c2a0985eb/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/firebase-common-license-12.0.1.aar/b425a80f7fc85633c18a4a2c2a0985eb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/ecoride/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/9fd7b86a28df298524bf92f76d9e0366/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/ecoride/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/9fd7b86a28df298524bf92f76d9e0366/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/ecoride/AndroidStudioProjects/eridesUserApp/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /home/ecoride/AndroidStudioProjects/eridesUserApp/app/src/main/AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.google.android.gms:play-services-ads:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-ads-12.0.1.aar/683d628ef6ec59bc2a6f1d5e4f020dfb/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		ADDED from /home/ecoride/AndroidStudioProjects/eridesUserApp/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /home/ecoride/AndroidStudioProjects/eridesUserApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ecoride/AndroidStudioProjects/eridesUserApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/ecoride/AndroidStudioProjects/eridesUserApp/app/src/main/AndroidManifest.xml:8:9-35
+		INJECTED from /home/ecoride/AndroidStudioProjects/eridesUserApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ecoride/AndroidStudioProjects/eridesUserApp/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/ecoride/AndroidStudioProjects/eridesUserApp/app/src/main/AndroidManifest.xml:11:5-49:19
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/7be6a9d7384a4adaf6d524bb53042a3f/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/7be6a9d7384a4adaf6d524bb53042a3f/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/72ba7ae53ccc97192b618c7d275bda95/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/72ba7ae53ccc97192b618c7d275bda95/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/be34b328885dc2a7e601757226f68f2f/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/be34b328885dc2a7e601757226f68f2f/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-gass-12.0.1.aar/402b8e6ff5f5c46f29a6af25da64696a/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-gass-12.0.1.aar/402b8e6ff5f5c46f29a6af25da64696a/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/55efbb420e0a41e188dd4db90afc1f23/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/55efbb420e0a41e188dd4db90afc1f23/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/905624a28120f1b88fdeb08c0bc361d0/AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/905624a28120f1b88fdeb08c0bc361d0/AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-common:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/f930bf9ff27277ff14e97705d890e771/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-common:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/f930bf9ff27277ff14e97705d890e771/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/15b4057d9a6db92d2682f0e3dff00124/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/15b4057d9a6db92d2682f0e3dff00124/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/de1be9b903c88bfbb7a270056174943b/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/de1be9b903c88bfbb7a270056174943b/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/ecoride/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/8b60de6ceeb89fe5435d38fb673719a0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/ecoride/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/8b60de6ceeb89fe5435d38fb673719a0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/ecoride/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/8384ef73bff1f024587b881f6d47e099/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/ecoride/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/8384ef73bff1f024587b881f6d47e099/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/ecoride/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/9a6eae1f2e1f8a7c120358a5888430cc/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/ecoride/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/9a6eae1f2e1f8a7c120358a5888430cc/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/ecoride/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/e60d766c33672b13f2ec901392d35998/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/ecoride/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/e60d766c33672b13f2ec901392d35998/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/ecoride/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/6863a81938a1a99086663084bfb2ddfb/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/ecoride/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/6863a81938a1a99086663084bfb2ddfb/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/ecoride/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b01ce526f6cf88543a49a0850a0852d1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/ecoride/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b01ce526f6cf88543a49a0850a0852d1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-ads-license-12.0.1.aar/a94ad4613e59506aa839895926b0ccbb/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-ads-license-12.0.1.aar/a94ad4613e59506aa839895926b0ccbb/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-12.0.1.aar/dc377bcb5cff97d958193db497f2de0e/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-12.0.1.aar/dc377bcb5cff97d958193db497f2de0e/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-license-12.0.1.aar/fecfefa66a65659bc5367140354f0df1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-license-12.0.1.aar/fecfefa66a65659bc5367140354f0df1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/a1b90bad4317082a3a6e99d7f4ccb5c0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/a1b90bad4317082a3a6e99d7f4ccb5c0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-gass-license-12.0.1.aar/7c5c65802a8f451b6799a0c8e0281272/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-gass-license-12.0.1.aar/7c5c65802a8f451b6799a0c8e0281272/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-12.0.1.aar/27a25ee837c2e2744c2382c38471aedb/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-12.0.1.aar/27a25ee837c2e2744c2382c38471aedb/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-12.0.1.aar/c48695fdf49cb264ddb190a0da6665c9/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-12.0.1.aar/c48695fdf49cb264ddb190a0da6665c9/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.1.aar/383efe60ccce8badfeda06232d07f7de/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.1.aar/383efe60ccce8badfeda06232d07f7de/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/098acad4e666b2bb4e694f7a03500fad/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/098acad4e666b2bb4e694f7a03500fad/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-12.0.1.aar/71fc0524dc32c3b0ab9d11873354d78e/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-12.0.1.aar/71fc0524dc32c3b0ab9d11873354d78e/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/firebase-common-license-12.0.1.aar/b425a80f7fc85633c18a4a2c2a0985eb/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/firebase-common-license-12.0.1.aar/b425a80f7fc85633c18a4a2c2a0985eb/AndroidManifest.xml:22:5-20
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/ecoride/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/9fd7b86a28df298524bf92f76d9e0366/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/ecoride/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/9fd7b86a28df298524bf92f76d9e0366/AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from /home/ecoride/AndroidStudioProjects/eridesUserApp/app/src/main/AndroidManifest.xml:14:9-41
+	android:icon
+		ADDED from /home/ecoride/AndroidStudioProjects/eridesUserApp/app/src/main/AndroidManifest.xml:13:9-45
+	android:allowBackup
+		ADDED from /home/ecoride/AndroidStudioProjects/eridesUserApp/app/src/main/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from /home/ecoride/AndroidStudioProjects/eridesUserApp/app/src/main/AndroidManifest.xml:15:9-40
+activity#com.example.mytaxiservice.MainActivity
+ADDED from /home/ecoride/AndroidStudioProjects/eridesUserApp/app/src/main/AndroidManifest.xml:16:9-24:20
+	android:label
+		ADDED from /home/ecoride/AndroidStudioProjects/eridesUserApp/app/src/main/AndroidManifest.xml:18:13-45
+	android:name
+		ADDED from /home/ecoride/AndroidStudioProjects/eridesUserApp/app/src/main/AndroidManifest.xml:17:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/ecoride/AndroidStudioProjects/eridesUserApp/app/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /home/ecoride/AndroidStudioProjects/eridesUserApp/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /home/ecoride/AndroidStudioProjects/eridesUserApp/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/ecoride/AndroidStudioProjects/eridesUserApp/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /home/ecoride/AndroidStudioProjects/eridesUserApp/app/src/main/AndroidManifest.xml:22:27-74
+activity#com.example.mytaxiservice.Login
+ADDED from /home/ecoride/AndroidStudioProjects/eridesUserApp/app/src/main/AndroidManifest.xml:25:9-28:20
+	android:label
+		ADDED from /home/ecoride/AndroidStudioProjects/eridesUserApp/app/src/main/AndroidManifest.xml:27:13-57
+	android:name
+		ADDED from /home/ecoride/AndroidStudioProjects/eridesUserApp/app/src/main/AndroidManifest.xml:26:13-34
+activity#com.example.mytaxiservice.SignUp
+ADDED from /home/ecoride/AndroidStudioProjects/eridesUserApp/app/src/main/AndroidManifest.xml:29:9-32:20
+	android:label
+		ADDED from /home/ecoride/AndroidStudioProjects/eridesUserApp/app/src/main/AndroidManifest.xml:31:13-59
+	android:name
+		ADDED from /home/ecoride/AndroidStudioProjects/eridesUserApp/app/src/main/AndroidManifest.xml:30:13-35
+activity#com.example.mytaxiservice.TaxiBooking
+ADDED from /home/ecoride/AndroidStudioProjects/eridesUserApp/app/src/main/AndroidManifest.xml:33:9-36:20
+	android:label
+		ADDED from /home/ecoride/AndroidStudioProjects/eridesUserApp/app/src/main/AndroidManifest.xml:35:13-64
+	android:name
+		ADDED from /home/ecoride/AndroidStudioProjects/eridesUserApp/app/src/main/AndroidManifest.xml:34:13-40
+activity#com.example.mytaxiservice.MenuActivity
+ADDED from /home/ecoride/AndroidStudioProjects/eridesUserApp/app/src/main/AndroidManifest.xml:37:9-40:20
+	android:label
+		ADDED from /home/ecoride/AndroidStudioProjects/eridesUserApp/app/src/main/AndroidManifest.xml:39:13-56
+	android:name
+		ADDED from /home/ecoride/AndroidStudioProjects/eridesUserApp/app/src/main/AndroidManifest.xml:38:13-41
+activity#com.example.mytaxiservice.BookingConfirmation
+ADDED from /home/ecoride/AndroidStudioProjects/eridesUserApp/app/src/main/AndroidManifest.xml:41:9-44:20
+	android:label
+		ADDED from /home/ecoride/AndroidStudioProjects/eridesUserApp/app/src/main/AndroidManifest.xml:43:13-72
+	android:name
+		ADDED from /home/ecoride/AndroidStudioProjects/eridesUserApp/app/src/main/AndroidManifest.xml:42:13-48
+activity#com.example.mytaxiservice.HotelBooking
+ADDED from /home/ecoride/AndroidStudioProjects/eridesUserApp/app/src/main/AndroidManifest.xml:45:9-48:20
+	android:label
+		ADDED from /home/ecoride/AndroidStudioProjects/eridesUserApp/app/src/main/AndroidManifest.xml:47:13-65
+	android:name
+		ADDED from /home/ecoride/AndroidStudioProjects/eridesUserApp/app/src/main/AndroidManifest.xml:46:13-41
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/7be6a9d7384a4adaf6d524bb53042a3f/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/7be6a9d7384a4adaf6d524bb53042a3f/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/7be6a9d7384a4adaf6d524bb53042a3f/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/7be6a9d7384a4adaf6d524bb53042a3f/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/7be6a9d7384a4adaf6d524bb53042a3f/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/7be6a9d7384a4adaf6d524bb53042a3f/AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/7be6a9d7384a4adaf6d524bb53042a3f/AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/7be6a9d7384a4adaf6d524bb53042a3f/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/7be6a9d7384a4adaf6d524bb53042a3f/AndroidManifest.xml:34:13-89
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/72ba7ae53ccc97192b618c7d275bda95/AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/72ba7ae53ccc97192b618c7d275bda95/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/72ba7ae53ccc97192b618c7d275bda95/AndroidManifest.xml:29:13-82
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/72ba7ae53ccc97192b618c7d275bda95/AndroidManifest.xml:31:13-33:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/72ba7ae53ccc97192b618c7d275bda95/AndroidManifest.xml:31:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/72ba7ae53ccc97192b618c7d275bda95/AndroidManifest.xml:32:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/72ba7ae53ccc97192b618c7d275bda95/AndroidManifest.xml:32:25-75
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/be34b328885dc2a7e601757226f68f2f/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/905624a28120f1b88fdeb08c0bc361d0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/905624a28120f1b88fdeb08c0bc361d0/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/be34b328885dc2a7e601757226f68f2f/AndroidManifest.xml:23:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/be34b328885dc2a7e601757226f68f2f/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/905624a28120f1b88fdeb08c0bc361d0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/905624a28120f1b88fdeb08c0bc361d0/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/be34b328885dc2a7e601757226f68f2f/AndroidManifest.xml:24:22-76
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/be34b328885dc2a7e601757226f68f2f/AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/be34b328885dc2a7e601757226f68f2f/AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/be34b328885dc2a7e601757226f68f2f/AndroidManifest.xml:31:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/be34b328885dc2a7e601757226f68f2f/AndroidManifest.xml:33:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/be34b328885dc2a7e601757226f68f2f/AndroidManifest.xml:30:13-65
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/55efbb420e0a41e188dd4db90afc1f23/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/55efbb420e0a41e188dd4db90afc1f23/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/55efbb420e0a41e188dd4db90afc1f23/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/55efbb420e0a41e188dd4db90afc1f23/AndroidManifest.xml:24:13-79
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/905624a28120f1b88fdeb08c0bc361d0/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/905624a28120f1b88fdeb08c0bc361d0/AndroidManifest.xml:24:22-65
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/905624a28120f1b88fdeb08c0bc361d0/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/905624a28120f1b88fdeb08c0bc361d0/AndroidManifest.xml:26:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/905624a28120f1b88fdeb08c0bc361d0/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/905624a28120f1b88fdeb08c0bc361d0/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/905624a28120f1b88fdeb08c0bc361d0/AndroidManifest.xml:29:9-63
+permission#com.example.mytaxiservice.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/905624a28120f1b88fdeb08c0bc361d0/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/905624a28120f1b88fdeb08c0bc361d0/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/905624a28120f1b88fdeb08c0bc361d0/AndroidManifest.xml:29:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/905624a28120f1b88fdeb08c0bc361d0/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/905624a28120f1b88fdeb08c0bc361d0/AndroidManifest.xml:32:22-76
+uses-permission#com.example.mytaxiservice.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/905624a28120f1b88fdeb08c0bc361d0/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/905624a28120f1b88fdeb08c0bc361d0/AndroidManifest.xml:32:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/905624a28120f1b88fdeb08c0bc361d0/AndroidManifest.xml:35:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/905624a28120f1b88fdeb08c0bc361d0/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/905624a28120f1b88fdeb08c0bc361d0/AndroidManifest.xml:38:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/905624a28120f1b88fdeb08c0bc361d0/AndroidManifest.xml:36:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/905624a28120f1b88fdeb08c0bc361d0/AndroidManifest.xml:39:13-43:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:com.example.mytaxiservice
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/905624a28120f1b88fdeb08c0bc361d0/AndroidManifest.xml:39:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/905624a28120f1b88fdeb08c0bc361d0/AndroidManifest.xml:40:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/905624a28120f1b88fdeb08c0bc361d0/AndroidManifest.xml:40:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/905624a28120f1b88fdeb08c0bc361d0/AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/905624a28120f1b88fdeb08c0bc361d0/AndroidManifest.xml:42:27-58
+category#com.example.mytaxiservice
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/905624a28120f1b88fdeb08c0bc361d0/AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/905624a28120f1b88fdeb08c0bc361d0/AndroidManifest.xml:42:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/905624a28120f1b88fdeb08c0bc361d0/AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/905624a28120f1b88fdeb08c0bc361d0/AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/905624a28120f1b88fdeb08c0bc361d0/AndroidManifest.xml:51:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/905624a28120f1b88fdeb08c0bc361d0/AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/905624a28120f1b88fdeb08c0bc361d0/AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/905624a28120f1b88fdeb08c0bc361d0/AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/905624a28120f1b88fdeb08c0bc361d0/AndroidManifest.xml:54:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/f930bf9ff27277ff14e97705d890e771/AndroidManifest.xml:8:9-12:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/f930bf9ff27277ff14e97705d890e771/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/f930bf9ff27277ff14e97705d890e771/AndroidManifest.xml:11:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/f930bf9ff27277ff14e97705d890e771/AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/f930bf9ff27277ff14e97705d890e771/AndroidManifest.xml:9:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/de1be9b903c88bfbb7a270056174943b/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/de1be9b903c88bfbb7a270056174943b/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:12.0.1] /home/ecoride/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/de1be9b903c88bfbb7a270056174943b/AndroidManifest.xml:24:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] /home/ecoride/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/8b60de6ceeb89fe5435d38fb673719a0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/ecoride/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/8384ef73bff1f024587b881f6d47e099/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/ecoride/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/8384ef73bff1f024587b881f6d47e099/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/ecoride/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/9a6eae1f2e1f8a7c120358a5888430cc/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/ecoride/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/9a6eae1f2e1f8a7c120358a5888430cc/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/ecoride/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/e60d766c33672b13f2ec901392d35998/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/ecoride/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/e60d766c33672b13f2ec901392d35998/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/ecoride/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/6863a81938a1a99086663084bfb2ddfb/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/ecoride/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/6863a81938a1a99086663084bfb2ddfb/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/ecoride/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b01ce526f6cf88543a49a0850a0852d1/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/ecoride/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b01ce526f6cf88543a49a0850a0852d1/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] /home/ecoride/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/8b60de6ceeb89fe5435d38fb673719a0/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] /home/ecoride/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/8b60de6ceeb89fe5435d38fb673719a0/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/ecoride/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/9fd7b86a28df298524bf92f76d9e0366/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/ecoride/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/9fd7b86a28df298524bf92f76d9e0366/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/ecoride/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/9fd7b86a28df298524bf92f76d9e0366/AndroidManifest.xml:26:13-58

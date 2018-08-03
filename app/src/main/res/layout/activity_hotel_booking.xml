@@ -1,0 +1,64 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="#19B5FE"
+    tools:context="com.example.mytaxiservice.HotelBooking" >
+    
+    <EditText
+        android:id="@+id/loc"
+        android:textColor="#FFFFFF"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="25dp"
+        android:hint="Enter location"
+        android:textColorHint="#FFFFFF"
+        android:ems="5"
+        android:inputType="textPersonName" >
+    </EditText>
+    
+    <Button
+        android:id="@+id/search"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_below="@+id/loc"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:background="#F7CA18"
+        android:text="Find Hotels"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/dispHotels"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/search"
+        android:layout_alignRight="@+id/search"
+        android:layout_below="@+id/search"
+        android:layout_marginTop="27dp"
+        android:background="#F7CA18"
+        android:ems="10" >
+
+        <requestFocus />
+    </EditText>
+
+    <Button
+        android:id="@+id/backHotel"
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="23dp"
+        android:background="#F7CA18"
+        android:text="Find Hotels"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold" />
+
+</RelativeLayout>
